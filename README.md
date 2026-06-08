@@ -1,7 +1,7 @@
 # UART-Design-Verilog
-UART Transmitter and Receiver Design using Verilog HDL with SystemVerilog testbench verification and simulation using QuestaSim/ModelSim.
+UART Transmitter and Receiver Design using Verilog with SystemVerilog testbench verification and simulation using QuestaSim/ModelSim.
 
-# UART Design using Verilog HDL
+# UART Design using Verilog
 
 This project implements UART (Universal Asynchronous Receiver Transmitter) transmitter and receiver modules using Verilog HDL for asynchronous serial communication. The functionality was verified using a SystemVerilog testbench and simulated using QuestaSim/ModelSim tools.
 
@@ -13,7 +13,7 @@ This project implements UART (Universal Asynchronous Receiver Transmitter) trans
 • SystemVerilog Testbench Verification
 
 **Tools Used**
-• Verilog HDL
+• Verilog 
 • SystemVerilog
 • QuestaSim / ModelSim
 
